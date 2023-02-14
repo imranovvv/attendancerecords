@@ -1,6 +1,8 @@
 # attendancerecords
 
-This project was created for an technical assessment for Vimigo Technologies
+App Walkthrough: https://youtu.be/YQf-yepqRIU
+
+This project was created by Imran Hafizuddin in a technical assessment for Vimigo Technologies
 
 The requirements of the project were as follows:
 
